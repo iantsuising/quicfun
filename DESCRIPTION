@@ -1,0 +1,14 @@
+Package: funquick
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0.9001
+Author: Ian Xu and Chong Zhong
+Maintainer: Ian <16902259r@connect.polyu.hk>
+Description: QuicFun: an R package and Shiny app of quantiles-based classier for functional data.
+License: GPL-2
+Encoding: UTF-8
+LazyLoad: yes
+LazyData: true
+Imports: fdapace, stats
+Suggests: fda.usc, refund
+RoxygenNote: 6.1.1
